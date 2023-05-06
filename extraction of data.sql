@@ -1,5 +1,5 @@
 
---Join 
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions
 
 select * from CovidDeaths dea
 join CovidVaccinations vac
